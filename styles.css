@@ -1,0 +1,31 @@
+body {
+    background-color: #f155ea;
+  
+    font-family: "PT Serif", serif;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: "Kaushan Script", cursive;
+    font-size: 3rem;
+    padding-bottom: 10px;
+  }
+  h2 {
+    font-weight: bold;
+    font-family: "Quicksand", sans-serif;
+    font-size: 2rem;
+  }
+  .card1 {
+    text-align: center;
+    background-color: #f79cf3;
+  }
+  .card2 {
+    padding: 1.5rem;
+    background-color: #f3b6f5;
+  }
+  .img1 {
+    border-radius: 50%;
+  }
+  .img2{
+    border-radius: 20%;
+  }
